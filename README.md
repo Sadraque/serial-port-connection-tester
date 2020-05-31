@@ -1,5 +1,5 @@
 # serialPortConnectionTester
-<h5>A simple program to test the connection with serial ports</h5>
+<h3>A simple program to test the connection with serial ports</h3>
 <br>
 <p><b>-></b> The program was made using Java with the Serial Library of the Processing API</p>
 <p>-> You can donwload the Processing API on <a href ="https://processing.org/">https://processing.org</a></p>
