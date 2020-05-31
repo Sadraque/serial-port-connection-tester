@@ -5,7 +5,7 @@
 <p>-> You can donwload the Processing API on <a href ="https://processing.org/">https://processing.org</a></p>
 <br>
 <p><b>-></b> To use the Processing API on your code you need to extend the Processing PApplet on your class: <br>
-  <b>Example:<b><br>
+  <b>Example:</b><br>
   public class test extends PPapplet(){
   }
 </p>
