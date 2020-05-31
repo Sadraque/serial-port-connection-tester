@@ -14,9 +14,9 @@
 
   You can copy this files on the example directory bellow: 
   <br>
-  C:\Program Files\processing-3.5.4\core\library
+  C:\Program Files\processing-3.5.4\core\library<br>
   C:\Program Files\processing-3.5.4\modes\java\libraries\serial\library
   <br>
   </p>
-<p>-> The jSSC-2.8.dll is needed for the serial library work. You should copy this dll on your System32 directory on windows. The dll is located for example on: C:\Program Files\processing-3.5.4\modes\java\libraries\serial\library, inside the windows32 and windows64 folder. If your operating system is 32 bits copy the dll of the windows32 folder, but If your operating system is 64 bits copy the dll of the windows64 folder</p>  
+<p>-> The jSSC-2.8.dll is needed for the serial library work. You should copy this dll on your System32 directory on windows. </p><p>The dll is located for example on: C:\Program Files\processing-3.5.4\modes\java\libraries\serial\library, inside the windows32 and windows64 folder.</p><p> If your operating system is 32 bits copy the dll of the windows32 folder, but If your operating system is 64 bits copy the dll of the windows64 folder</p>  
   
