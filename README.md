@@ -1,4 +1,4 @@
-# serialPortConnectionTester
+# Serial Port Connection Tester
 <h3>A simple program to test the connection with serial ports</h3>
 <br>
 <p><b>-></b> The program was made using Java with the Serial Library of the Processing API</p>
